@@ -1,3 +1,11 @@
+/*
+Exercise:
+
+With the following typedef structs make the output be something like:
+"From Helsinki arrives at 10-01-2020"
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
